@@ -23,5 +23,3 @@
 or Heroku Button.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-# Tensor_sample
-# Tensor_sample
